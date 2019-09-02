@@ -779,3 +779,6 @@ footer {
     padding-top: 0;
   }
 }
+@media (max-width: 320px) {
+font-size: 2.5rem;
+}
