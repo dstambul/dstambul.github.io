@@ -1,3 +1,3 @@
 # plaster-walls.github.io
 Услуги по отделке квартиры
-<a href="https://github.com/dstambul/plaster-walls.github.io" rel="nofollow">DEMO</a>
+<a href="https://dstambul.github.io/plaster-walls.github.io/" rel="nofollow">DEMO</a>
